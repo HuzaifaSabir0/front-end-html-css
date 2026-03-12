@@ -103,6 +103,10 @@ width: 100px; */
     flex-direction: column;
     align-items: center;
  }
+.midbottomright > img{
+    width: 100%;
+    max-width: 600px;
+}
 .footer{
     display: flex;
     flex-direction: column;
@@ -113,4 +117,5 @@ width: 100px; */
 .footer div{
     display: flex;
     gap: 30px;
+
 }
